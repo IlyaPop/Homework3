@@ -15,6 +15,7 @@ public class NumberSum {
         System.out.println(a+b+c+d);
     }
 
+
     public static void main(String[] args) {
         NumberSum sumObj = new NumberSum();
         sumObj.sum();
